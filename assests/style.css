@@ -805,8 +805,8 @@ section #rumah {
 .thanks p {
   color: #916e3d;
 }
-/* Media Query for Laptops and Desktops */
-/*@media (min-width: 1500px) {
+/*Media Query for Laptops and Desktops */
+@media (min-width: 1px) {
   .gallery-video video{
     width: 50%;
   }
@@ -1040,7 +1040,7 @@ section #rumah {
 
   .section-special-guests {
     max-width: 100%;
-    overflow-x: auto;  Mengizinkan scroll horizontal pada tabel 
+    overflow-x: auto;  
     box-sizing: border-box;
     text-align: center;
     justify-content: center;
@@ -1128,7 +1128,7 @@ section #rumah {
     background-color: #785c34;
     color: #fffff0;
     padding: 10px 20px;
-    font-size: 12px;
+    font-size: 12px; 
     border: none;
   }
 
@@ -1369,7 +1369,7 @@ section #rumah {
     font: 2rem;
     color: #916e3d;
   }
-}*/
+}
 /* @media only screen and (min-width: 992px) {
   body {
     margin-left: 65vh;

@@ -806,7 +806,7 @@ section #rumah {
   color: #916e3d;
 }
 /*Media Query for Laptops and Desktops */
-@media (min-width: 1px) {
+@media (min-width: 1000px) {
   .gallery-video video{
     width: 50%;
   }
